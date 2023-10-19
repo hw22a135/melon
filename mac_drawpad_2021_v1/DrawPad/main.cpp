@@ -40,5 +40,6 @@ void DrawMain()
     Clear(kColorWhite);
     Sleep(0.1f);
     Clear(kColorBlack);
+    DrawCircle(0, 0, 150, kColorBlue);
 }
 
