@@ -4,7 +4,7 @@
 void DrawMain()
 {
     Clear(kColorBlack);
-    
+    //いじってみた！！
     DrawLine(-320, 0, 319, 0, kColorGray);
     DrawLine(0, -240, 0, 239, kColorGray);
     
