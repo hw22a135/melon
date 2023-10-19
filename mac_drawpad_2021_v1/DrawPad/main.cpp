@@ -23,6 +23,8 @@ void DrawMain()
         Paint(x+5, 0, kColorDarkBlue, kColorBlue);
     }
     
+    DrawText("Hello, world!!", -12*14/2, 66, kColorGreen);
+    Sleep(0.5f);
     DrawText("Hello, world!!", -12*14/2, 44, kColorWhite);
     Sleep(0.5f);
     DrawText("Hello, world!!", -12*14/2, 22, kColorYellow);
