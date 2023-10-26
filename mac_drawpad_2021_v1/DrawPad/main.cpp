@@ -3,6 +3,9 @@
 
 void DrawMain()
 {
+    DrawCircle(0, 0, 0, kColorBlue);
+    DrawCircle(0, 0, -50, kColorBlue);
+    DrawCircle(0, 0, 50, kColorBlue);
     DrawLine(0, 0, -320, 240, kColorGray);
     Clear(kColorBlack);
     //いじってみた！！
