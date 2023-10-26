@@ -6,7 +6,7 @@ void DrawMain()
     DrawCircle(0, 0, 0, kColorBlue);
     DrawCircle(0, 0, -50, kColorBlue);
     DrawCircle(0, 0, 50, kColorBlue);
-    DrawLine(0, 0, -320, 240, kColorGray); //コメント
+    DrawLine(0, 0, 120, 240, kColorGray); //コメント
     Clear(kColorBlack);
     //いじってみた！！
     DrawLine(-320, 0, 319, 0, kColorGray);
